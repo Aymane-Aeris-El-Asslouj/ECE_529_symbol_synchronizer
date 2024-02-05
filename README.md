@@ -16,10 +16,8 @@ The project is documented in the included [26-page provided report](report.pdf)
 ## Filtered Signal
 ![](graphics/received.png)
 
-
 ## Symbol Synchronizer Model
 ![](graphics/synchronizer.png)
-
 
 ## Signal with Synchronized Symbol Markings
 ![](graphics/synchronized.png)
